@@ -1,31 +1,24 @@
-### Hi there 👋
-
-<!--
-**lawrester/lawrester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## I'm Esther O. Lawrence
-
+<img align="center" alt="developergif" width="1000" src="https://images.template.net/wp-content/uploads/2016/11/16121639/Character-Design-Animated-Gif.gif?width=1000">
+<h2 align="center">Hi there 👋</h2>
+<h3 align="center">I'm Esther O Lawrence</h3>
+<h3 align="center">A Frontend developer</h3> 
 
 ## 🚀 About Me
 My name is Esther Lawrence I'm a frontend  developer...
 
 I'm a beginner frontend developer currently training at zuri, i love making craft and working with my hands.
-        During the day i'm an ESL english teacher, at my free time i play around with HTML, CSS.
+During the day i'm an ESL english teacher, at my free time i play around with HTML, CSS.
+
 ## 🛠 Skills
 Javascript, HTML, CSS...
+- 🔭 I’m currently working on **Team isiaka zuri project**
+- 🌱 I’m currently learning ...HTML, CSS, JAVASCRIPT
+- 👯 I’m looking to collaborate on ...Projects
+- 🤔 I’m looking for help with ...Getting and internship, remote jobs
+- 💬 Ask me about ...HTML, CSS, JAVASRIPT
+- 📫 How to reach me: ...Below i have atached different links on which i can be contacted by.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 ## Authors
